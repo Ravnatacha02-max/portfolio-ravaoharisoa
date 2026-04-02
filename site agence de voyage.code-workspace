@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../site fin d'année"
+		},
+		{
+			"path": "../Natacha"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Natacha"
+	}
+}
